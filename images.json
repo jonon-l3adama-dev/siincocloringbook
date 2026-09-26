@@ -1,6 +1,286 @@
 {
     "easy": [
         {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch1.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch2.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch3.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch4.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch5.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch6.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch7.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch8.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch9.png",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch10.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch11.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch12.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch13.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch14.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch15.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch16.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch17.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch18.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch19.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch20.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch21.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch22.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch23.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch24.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch25.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch26.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch27.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch28.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch29.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch30.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch31.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch32.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch33.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch34.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch35.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch36.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch37.png",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch38.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch39.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch40.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch41.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch42.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch43.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch44.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch45.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch46.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch47.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch48.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch49.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch50.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch51.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch52.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch53.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch54.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch55.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch56.jpg",
+            "subcategory": "Sonic"
+        },
+        {
             "bgImageName": "Boboiboy_Coloring_page",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/c1.jpg",
             "subcategory": "Boboiboy"
@@ -679,290 +959,290 @@
             "bgImageName": "Ben10_coloring_book",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/cb40.png",
             "subcategory": "Ben 10"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch1.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch2.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch3.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch4.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch5.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch6.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch7.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch8.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch9.png",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch10.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch11.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch12.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch13.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch14.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch15.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch16.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch17.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch18.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch19.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch20.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch21.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch22.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch23.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch24.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch25.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch26.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch27.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch28.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch29.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch30.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch31.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch32.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch33.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch34.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch35.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch36.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch37.png",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch38.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch39.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch40.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch41.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch42.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch43.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch44.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch45.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch46.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch47.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch48.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch49.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch50.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch51.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch52.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch53.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch54.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch55.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch56.jpg",
-            "subcategory": "Sonic"
         }
     ],
     "hard": [
         {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch1.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch2.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch3.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch4.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch5.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch6.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch7.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch8.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch9.png",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch10.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch11.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch12.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch13.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch14.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch15.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch16.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch17.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch18.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch19.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch20.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch21.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch22.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch23.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch24.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch25.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch26.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch27.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch28.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch29.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch30.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch31.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch32.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch33.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch34.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch35.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch36.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch37.png",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch38.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch39.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch40.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch41.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch42.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch43.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch44.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch45.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch46.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch47.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch48.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch49.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch50.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch51.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch52.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch53.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch54.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch55.jpg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch56.jpg",
+            "subcategory": "Sonic"
+        },
+        {
             "bgImageName": "Boboiboy_Coloring_page",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/c1.jpg",
             "subcategory": "Boboiboy"
@@ -1641,289 +1921,69 @@
             "bgImageName": "Ben10_coloring_book",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/cb40.png",
             "subcategory": "Ben 10"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch1.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch2.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch3.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch4.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch5.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch6.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch7.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch8.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch9.png",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch10.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch11.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch12.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch13.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch14.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch15.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch16.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch17.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch18.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch19.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch20.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch21.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch22.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch23.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch24.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch25.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch26.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch27.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch28.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch29.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch30.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch31.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch32.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch33.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch34.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch35.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch36.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch37.png",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch38.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch39.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch40.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch41.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch42.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch43.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch44.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch45.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch46.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch47.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch48.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch49.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch50.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch51.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch52.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch53.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch54.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch55.jpg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/ch56.jpg",
-            "subcategory": "Sonic"
         }
     ],
     "number": [
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh1.jpeg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh2.jpeg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh3.jpeg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh4.jpeg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh5.jpeg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh6.jpeg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh7.jpeg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh8.jpeg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh9.jpeg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh10.jpeg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh11.jpeg",
+            "subcategory": "Sonic"
+        },
+        {
+            "bgImageName": "Sonic_coloring_book",
+            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh12.jpeg",
+            "subcategory": "Sonic"
+        },
         {
             "bgImageName": "Boboiboy_Coloring_page",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/n1.jpg",
@@ -2298,66 +2358,6 @@
             "bgImageName": "Ben10_coloring_book",
             "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nb16.jpeg",
             "subcategory": "Ben 10"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh1.jpeg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh2.jpeg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh3.jpeg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh4.jpeg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh5.jpeg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh6.jpeg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh7.jpeg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh8.jpeg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh9.jpeg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh10.jpeg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh11.jpeg",
-            "subcategory": "Sonic"
-        },
-        {
-            "bgImageName": "Sonic_coloring_book",
-            "bgImagePath": "https://raw.githubusercontent.com/theworldofstickers/spoomcoloringbookkidooo/refs/heads/main/nh12.jpeg",
-            "subcategory": "Sonic"
         }
     ]
 }
